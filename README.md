@@ -5,6 +5,9 @@ Watching Video Demo Here!
 https://youtu.be/5grlLRj8KAE?si=12sOrNXT7PEXatLB
 
 
+<img width="566" alt="Screenshot 2024-08-06 at 9 46 19 PM" src="https://github.com/user-attachments/assets/e7fba786-e4e0-46c9-871f-40f1364e5df4">
+<img width="1388" alt="Screenshot 2024-08-06 at 9 47 05 PM" src="https://github.com/user-attachments/assets/66f801f1-f0aa-4c3b-90c0-c8c9dcb71fff">
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
