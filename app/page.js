@@ -30,7 +30,7 @@ function InventoryModal({ open, handleClose, addItem, itemName, itemQuantity, se
     >
       <Box sx={modalStyle}>
         <Typography id="modal-modal-title" variant="h6" component="h2">
-          Add Item
+          Add Items
         </Typography>
         <Stack width="100%" direction="column" spacing={2}>
           <TextField
@@ -171,7 +171,7 @@ export default function Home() {
       gap={2}
     >
       <Typography textAlign="center" color="#FFC0CB" variant="h2" sx={{ fontFamily: 'serif', fontSize: '70px', fontWeight: 'bold' }}>
-        My lovely pantry
+        My pantry
       </Typography>
       {loading ? (
         <CircularProgress />
@@ -190,7 +190,7 @@ export default function Home() {
       />
 
           <Button variant="contained" onClick={handleOpen}>
-            Add New Item
+            Add New Items
           </Button>
           <Box border="1px solid #" width="800px">
             <Box
