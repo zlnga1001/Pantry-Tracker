@@ -171,7 +171,7 @@ export default function Home() {
       gap={2}
     >
       <Typography textAlign="center" color="#FFC0CB" variant="h2" sx={{ fontFamily: 'serif', fontSize: '70px', fontWeight: 'bold' }}>
-        My pantry
+        My lovely pantry
       </Typography>
       {loading ? (
         <CircularProgress />
